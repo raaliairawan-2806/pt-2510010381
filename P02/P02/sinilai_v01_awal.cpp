@@ -6,8 +6,11 @@ using namespace std;
 int main() {
     string nama;
     string npm;
-    float kehadiran, mingguan, uts, uas;
-
+    int kehadiran;
+    double mingguan;
+    int uts;
+    int uas;
+    
     cout << "=== SiNilai v0.1 ===\n";
     cout << "Nama      : ";
     getline(cin, nama);

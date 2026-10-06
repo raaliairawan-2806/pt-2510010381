@@ -1,0 +1,7 @@
+1. Untuk mengubah `rerata.cpp` agar menghitung rata-rata dari lima nilai, kita perlu menambahkan variabel untuk nilai keempat dan kelima, memperbarui rumus penjumlahan `jumlah`, serta mengganti pembagi dari angka 3 menjadi 5 pada variabel `rerata`, di mana perubahan ini melibatkan sekitar tiga hingga empat bagian kode yang saling berpengaruh.
+
+2. Jika tanda kutip penutup pada `hello.cpp` dihapus lalu dibangun ulang, pesan error yang akan muncul di antaranya adalah `missing terminating " character` pada baris terkait, karena compiler mendeteksi adanya string teks yang dibuka dengan tanda kutip ganda tetapi tidak ditutup kembali sebelum baris perintah berakhir.
+
+3. Ketika baris `#include` <iostream> pada `hello.cpp` dihapus dan dibangun ulang, tahap yang mengalami kegagalan adalah tahap compile, dan pesan error yang muncul akan berbeda karena compiler menyatakan bahwa `cout` tidak dideklarasikan dalam cakupan tersebut akibat pustaka standar input-output belum disertakan.
+
+4. Membangun berkas `rerata_awal.cpp` tanpa menggunakan opsi `-Wall -Wextra` akan menghilangkan pesan peringatan seperti `warning: unused variable` yang menginformasikan adanya variabel belum terpakai, dan hal ini justru merugikan karena kita kehilangan peringatan dini dari compiler terhadap potensi kode yang belum diselesaikan atau mencurigakan.

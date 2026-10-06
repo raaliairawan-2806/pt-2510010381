@@ -17,17 +17,17 @@
 Nama      : Raafi Ghozaly Irawan
 NPM       : 2510010381
 Kehadiran : 100
-Mingguan  : 88
-UTS       : 80
-UAS       : 90
+Mingguan  : 85.5
+UTS       : 78
+UAS       : 80
 
 --- Kartu Data Mahasiswa ---
 Nama      : Raafi Ghozaly Irawan
 NPM       : 2510010381
 Kehadiran : 100
-Mingguan  : 88
-UTS       : 80
-UAS       : 90
+Mingguan  : 85.5
+UTS       : 78
+UAS       : 80
 
 ```
 
