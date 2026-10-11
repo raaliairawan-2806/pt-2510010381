@@ -48,7 +48,7 @@ int main() {
 
 ```
 
-2.**Mengubah `tipe_dasar.cpp` agar `lulus` dicetak sebagai `true/false`**
+2. **Mengubah `tipe_dasar.cpp` agar `lulus` dicetak sebagai `true/false`**
 ```cpp
  bool lulus = true;
 
